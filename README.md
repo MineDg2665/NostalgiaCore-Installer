@@ -4,6 +4,8 @@
 
 Script for installing PHP & NostalgiaCore.
 
+[Official repository](https://github.com/kotyaralih/NostalgiaCore/)
+
 ## Using the installation scripts
 
 ### For Windows 7+
